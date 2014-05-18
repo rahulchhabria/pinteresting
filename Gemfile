@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 1.2'
 # Bootstrap frotend framework
 gem 'bootstrap-sass'
 
+gem 'protected_attributes'
+
 #Devise gem allows users to login to your app
 gem 'devise', '~> 3.1.0.rc2'
 
