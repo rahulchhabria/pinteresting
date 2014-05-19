@@ -32,6 +32,8 @@ gem 'protected_attributes'
 #Devise gem allows users to login to your app
 gem 'devise', '~> 3.1.0.rc2'
 
+gem 'paperclip', '~> 3.0'
+
 group :development, :test do
 	# Use sqlite3 as the database for Active Record
 	gem 'sqlite3'
