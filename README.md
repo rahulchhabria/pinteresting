@@ -3,3 +3,4 @@
 This is the pinteresting sample applicaton for 
 [*One Month Rails*](http://onemonthrials.com)
 
+#test comment
